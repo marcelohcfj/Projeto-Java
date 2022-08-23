@@ -9,5 +9,5 @@ if(idade < 16) {
         console.log ('Vota')
     }
     if(idade >= 60) {
-        console.log ('Vota opicional')
+        console.log ('Voto opicional')
     }
